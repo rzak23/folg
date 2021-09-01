@@ -18,3 +18,5 @@ Pada pembahasan pertama, kita akan membahas tentang tag heading. Dimana dengan m
 Output :
 
 ![heading](../../../img/html/heading.jpg)
+
+Untuk penggunaan tag heading ini harus diletakan pada element `<body></body>`
