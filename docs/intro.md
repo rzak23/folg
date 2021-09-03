@@ -4,6 +4,12 @@ sidebar_position: 1
 
 # Welcome
 
-Belajar Programming Gratis tanpa iklan dan bebas akses dimanapun dan kapanpun
+FOLG (Free Online Learning Programming) dibuat secara gratis dan tidak memerlukan akun untuk mengakses. FOLG didedikasikan untuk mereka yang ingin mempelajari bahasa pemrograman. Materi dibuat seringan dan sesederhana mungkin namun tidak mengurangi esensi dari materi yang disampaikan, materi juga akan diperbarui secara berkala jika terdapat pembaruan pada bahasa ataupun teknologi yang berhubungan pada materi yang tersedia pada website ini.
 
-Materi yang dibuat dalam materi ini berdasarkan pengalaman kerja dan diambil dari [W3Schools](https://www.w3schools.com/)
+## Contact Us
+
+Jika kalian ingin memberikan saran atau perbaikan, bisa menghubungi :
+
+* E-mail : rzak@restdx.com
+
+## Donation
