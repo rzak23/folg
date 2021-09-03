@@ -5,7 +5,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 module.exports = {
   title: 'FOLG',
   tagline: 'Program is Simple',
-  url: 'https://your-docusaurus-test-site.com',
+  url: 'https://folg.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
