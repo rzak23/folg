@@ -13,3 +13,7 @@ Jika kalian ingin memberikan saran atau perbaikan, bisa menghubungi :
 * E-mail : rzak@restdx.com
 
 ## Donation
+
+Kalian juga bisa support kami dengan cara memberikan donasi. Namun perlu dicatat tidak ada kewajiban dalam donasi. Jadi meskipun kalian tidak melakukan donasi kalian tetap bisa menikmati setiap konten yang dipos pada website ini
+
+Link Donasi : [Trakter](https://trakteer.id/rzak23)
