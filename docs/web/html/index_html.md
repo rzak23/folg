@@ -44,3 +44,15 @@ Cara kedua kali ini menggunakan extension pada browser, dimana yang dibahas pada
 4. Pastikan Web Server dalam kondisi `Started`
 5. Klik tombol `Choose Folder` dan tentukan folder tempat dimana dokumen HTML disimpan, jika sudah klik tombol `Select Folder`
 6. Buka browser dan jalankan local server dengan cara mengetikkan IP web server yang tertera pada extension
+
+### Menggunakan Extensions Visual Studi Code
+
+Jika kalian menggunakan Visual Studio Code, silahkan ikuti langkah berikut :
+
+1. Buka menu Extension pada Visual Studio Code
+2. Pada kolom pencarian ketikkan kata `Live Server`
+3. Klik pada extension live server
+![](../../../img/html/ext-live-server.jpg)
+4. Klik tombol Install dan tunggu sampai instalasi selesai
+5. Buka dokumen HTML pada Visual Studio Code
+6. Klik tombol `Go Live` yang ada pada pojok kanan bawah Visual Studio Code, maka secara otomatis akan membuka browser default pada Windows dan menampilkan dokumen HTML yang kita pilih
