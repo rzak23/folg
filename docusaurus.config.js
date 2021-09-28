@@ -4,7 +4,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
   title: 'FOLG',
-  tagline: 'Program is Simple',
+  tagline: 'Belajar Bahasa Pemrograman Gratis',
   url: 'https://folg.netlify.app',
   baseUrl: '/',
   onBrokenLinks: 'throw',
@@ -17,15 +17,21 @@ module.exports = {
       title: 'FOLG',
       logo: {
         alt: 'My Site Logo',
-        src: 'img/logo.svg',
+        src: 'img/logo.png',
       },
       items: [
         {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Tutorial',
+          label: 'Materi',
         },
+        {
+          type: 'doc',
+          docId: 'contoh',
+          position: 'left',
+          label: 'Contoh'
+        }
         // {to: 'blog/', label: 'Blog', position: 'left'}
       ],
     },
@@ -36,9 +42,9 @@ module.exports = {
           title: 'Docs',
           items: [
             {
-              label: 'Tutorial',
+              label: 'Materi',
               to: '/docs/intro',
-            },
+            }
           ],
         },
         // {
@@ -83,11 +89,11 @@ module.exports = {
     [
       '@docusaurus/preset-classic',
       {
-        // docs: {
-        //   sidebarPath: require.resolve('./sidebars.js'),
+        docs: {
+          sidebarPath: require.resolve('./sidebars.js'),
         //   // Please change this to your repo.
         //   editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
-        // },
+        },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
