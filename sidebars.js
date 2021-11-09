@@ -63,6 +63,8 @@ module.exports = {
                 'web/php/laragon/versi_laragon'
               ],
             },
+            'web/php/hello',
+            'web/php/variabel'
           ],
         }
       ]
@@ -71,5 +73,18 @@ module.exports = {
   // menu contoh
   contoh: [
     'contoh'
+  ],
+  git: [
+    'git',
+    'git/install',
+    {
+      type: 'category',
+      label: 'Github',
+      collapsed: true,
+      items: [
+        'git/github/github',
+        'git/github/buat-akun'
+      ]
+    }
   ]
 };

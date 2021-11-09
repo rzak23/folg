@@ -28,10 +28,16 @@ module.exports = {
         },
         {
           type: 'doc',
+          docId: 'git',
+          position: 'left',
+          label: 'Git'
+        },
+        {
+          type: 'doc',
           docId: 'contoh',
           position: 'left',
           label: 'Contoh'
-        }
+        },
         // {to: 'blog/', label: 'Blog', position: 'left'}
       ],
     },
