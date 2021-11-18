@@ -6,5 +6,8 @@ Untuk bisa mengunnakan layanan Github, maka kita perlu membuat akun terlebih dah
 2. Klik tombol `Sign up` untuk mendaftar, maka akan tampil seperti pada gambar berikut :
 ![register-page](../../../img/github/register.png)
 3. Isikan data yang diminta pada halaman register
-4. Jika pendaftar berhasil, maka akan dialihkan ke halama login, dan akan diminta untuk melakukan verifikasi melalui email yang didaftarkan
-5. Selamat, anda telah memiliki akun pada layanan Github
+4. Selesaikan puzzle verifikasi yang diberikan
+5. Klik tombol Create Account untuk melanjutkan
+6. Cek inbox email yang digunakan untuk pendaftaran untuk melihat kode verifikasi yang diberikan dan inputkan pada form yang disediakan Github
+7. Jika sudah berhasil maka kita akan diarahkan ke wizard personalisasi, silahkan skip jika tidak diperlukan
+6. Selamat, anda telah memiliki akun pada layanan Github
