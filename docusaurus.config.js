@@ -24,7 +24,7 @@ module.exports = {
           type: 'doc',
           docId: 'intro',
           position: 'left',
-          label: 'Materi',
+          label: 'Pemrograman Web',
         },
         {
           type: 'doc',
