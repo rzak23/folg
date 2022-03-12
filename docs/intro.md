@@ -16,4 +16,4 @@ Jika kalian ingin memberikan saran atau perbaikan, bisa menghubungi :
 
 Kalian juga bisa support kami dengan cara memberikan donasi. Namun perlu dicatat tidak ada kewajiban dalam donasi. Jadi meskipun kalian tidak melakukan donasi kalian tetap bisa menikmati setiap konten yang dipos pada website ini
 
-Link Donasi : [Trakter](https://trakteer.id/rzak23)
+Link Donasi : [Saweria](https://saweria.co/overlays/qr?streamKey=ed1fea334bbb490464790c9f8d06addf&backgroundColor=%23faae2b&barcodeColor=%23000&username=rzak23)
