@@ -26,49 +26,53 @@ module.exports = {
   // menu materi
   docs:[
     'intro',
+    'web/persiapan',
     {
       type: 'category',
-      label: 'Programming Web',
+      label: 'HTML',
       collapsed: true,
       items: [
-        'web/index',
-        'web/persiapan',
-        {
-          HTML: [
-            'web/html/index_html',
-            'web/html/heading',
-            'web/html/paragraf',
-            'web/html/format',
-            'web/html/tabel',
-            'web/html/order_list'
-          ],
-        },
-        {
-          CSS: [
-            'web/css/index_css'
-          ],
-        },
-        {
-          Javascript: [
-            'web/javascript/index_javascript'
-          ]
-        },
-        {
-          PHP : [
-            'web/php/index_php',
-            {
-              Laragon: [
-                'web/php/laragon/index_laragon',
-                'web/php/laragon/jalan_laragon',
-                'web/php/laragon/versi_laragon'
-              ],
-            },
-            'web/php/hello',
-            'web/php/variabel'
-          ],
-        }
+        'web/html/index_html',
+        'web/html/heading',
+        'web/html/paragraf',
+        'web/html/format',
+        'web/html/tabel',
+        'web/html/order_list'
       ]
     },
+    {
+      type: 'category',
+      label: 'CSS',
+      collapsed: true,
+      items: [
+        'web/css/index_css'
+      ]
+    },
+    {
+      type: 'category',
+      label: 'Javascript',
+      collapsed: true,
+      items: [
+        'web/javascript/index_javascript'
+      ]
+    },
+    {
+      type: 'category',
+      label: 'PHP',
+      collapsed: true,
+      items: [
+        'web/php/index_php',
+        {
+          Laragon: [
+            'web/php/laragon/index_laragon',
+            'web/php/laragon/jalan_laragon',
+            'web/php/laragon/versi_laragon'
+          ],
+        },
+        'web/php/hello',
+        'web/php/variabel'
+      ]
+    }
   ],
   // menu contoh
   contoh: [

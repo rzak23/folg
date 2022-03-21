@@ -2,18 +2,10 @@
 sidebar_position: 1
 ---
 
-# Welcome
+# Pengenalan Web
 
-FOLG (Free Online Learning Programming) dibuat secara gratis dan tidak memerlukan akun untuk mengakses. FOLG didedikasikan untuk mereka yang ingin mempelajari bahasa pemrograman. Materi dibuat seringan dan sesederhana mungkin namun tidak mengurangi esensi dari materi yang disampaikan, materi juga akan diperbarui secara berkala jika terdapat pembaruan pada bahasa ataupun teknologi yang berhubungan pada materi yang tersedia pada website ini.
+Web atau bisa juga disebut Website adalah kumpulan halaman dalam suatu domain yang memuat tentang berbagai informasi agar dapat dibaca dan dilihat oleh pengguna internet melalui sebuah mesin pencari. Informasi yang dapat dimuat dalam sebuah website umumnya berisi mengenai konten gambar, ilustrasi, video, dan teks untuk berbagai macam kepentingan.
 
-## Contact Us
+Biasanya untuk tampilan awal sebuah website dapat diakses melalui halaman utama (homepage) menggunakan browser dengan menuliskan URL yang tepat. Di dalam sebuah homepage, juga memuat beberapa halaman web turunan yang saling terhubung satu dengan yang lain.
 
-Jika kalian ingin memberikan saran atau perbaikan, bisa menghubungi :
-
-* E-mail : rzak@restdx.com
-
-## Donation
-
-Kalian juga bisa support kami dengan cara memberikan donasi. Namun perlu dicatat tidak ada kewajiban dalam donasi. Jadi meskipun kalian tidak melakukan donasi kalian tetap bisa menikmati setiap konten yang dipos pada website ini
-
-Link Donasi : [Saweria](https://saweria.co/overlays/qr?streamKey=ed1fea334bbb490464790c9f8d06addf&backgroundColor=%23faae2b&barcodeColor=%23000&username=rzak23)
+Source : [Sekawan Media](https://www.sekawanmedia.co.id/pengertian-website/)
