@@ -1,9 +1,7 @@
 ---
 sidebar_position: 3
+title: Tambah Versi & Ganti Versi PHP
 ---
-
-# Tambah Versi & Ganti Versi PHP
-
 
 ## Menambahkan Versi PHP
 Pada Laragon kita dapat menambahkan dan berganti versi PHP pada Laragon dan hal ini yang menjadikan Laragon memiliki kelebihan dari pada aplikasi local server yang lainnya. Berikut langkah-langkah cara menambahkan versi PHP pada aplikasi Laragon :

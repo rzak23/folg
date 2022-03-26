@@ -1,4 +1,6 @@
-# Hello World
+---
+title: Hello World
+---
 
 Untuk memulai pembelajaran PHP, maka pertama kita akan mempraktekkan bagaimana cara menampilkan sebuah string dengan menggunakan bahasa pemrogran PHP.
 

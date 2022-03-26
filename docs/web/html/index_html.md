@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
+title: Pengenalan HTML
 ---
-
-# Pengenalan HTML
 
 HTML (Hypertext Markup Language) merupakan bahasa markup yang digunakan untuk membangun sebuah halaman website, jika diibaratkan kita membangun rumah maka HTML sama dengan pondasi dari sebuah web, tata letak dan dokumen yang ingin ditampilkan pada website akan diletakkan pada elemen-elemen pada HTML. Dalam mempelajari HTML kita akan sering mendengar istilah tag, elemen dan juga atribut.
 

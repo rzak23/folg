@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
+title: Pengenalan
 ---
-
-# Pengenalan Web
 
 Web atau bisa juga disebut Website adalah kumpulan halaman dalam suatu domain yang memuat tentang berbagai informasi agar dapat dibaca dan dilihat oleh pengguna internet melalui sebuah mesin pencari. Informasi yang dapat dimuat dalam sebuah website umumnya berisi mengenai konten gambar, ilustrasi, video, dan teks untuk berbagai macam kepentingan.
 

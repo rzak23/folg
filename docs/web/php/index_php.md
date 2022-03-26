@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
+title: Pengenalan PHP
 ---
-
-# Pengenalan PHP
 
 PHP merupakan salah satu bahasa server-side yang masih banyak digunakan. Server Side yang dimaksud adalah sebuah bahasa pemrograman yang berjalan atau dieksekusi dari sisi server. Dalam pengertian web, kita akan mengenal istilah tentan server-client. Silahkan buka mater [Javascript](../javascript/index_javascript) untuk mempelajari mengenai Bahasa Client Side.
 

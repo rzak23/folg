@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
+title: Heading
 ---
-
-# Heading
 
 Pada pembahasan pertama, kita akan membahas tentang tag heading. Dimana dengan menggunakan tag heading ini kita bisa membuat sebuah judul dengan ukurang yang berbeda-beda tanpa harus memberikan ukuran font secara langsung. Pada HTML terdapat 6 tingkatan dalam heading, untuk lebih jelasnya, silahkan perhatikan syntax berikut
 

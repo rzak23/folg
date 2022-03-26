@@ -1,3 +1,7 @@
+---
+title: Membuat Akun Github
+---
+
 # Membuat Akun Github
 
 Untuk bisa mengunnakan layanan Github, maka kita perlu membuat akun terlebih dahulu, berikut langkah-langknya :

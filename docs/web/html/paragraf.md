@@ -1,8 +1,7 @@
 ---
 sidebar_position: 3
+title : Paragraf
 ---
-
-# Paragraf
 
 ## Penulisan Paragraf
 Pada dokumen HTML kita juga membuat sebuah paragraf, dimana berfungsi untuk merapikan sebuah teks yang ingin kitam tampilkan layaknya membuat sebuah tesk pada aplikasi pengolah kata. Untuk membuat paragraf maka kita membutuhkan tag `<p></p>`. Perhatikan syntax berikut

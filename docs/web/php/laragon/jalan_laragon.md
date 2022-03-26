@@ -1,8 +1,7 @@
 ---
 sidebar_position: 2
+title: Menjalankan Laragon
 ---
-
-# Menjalankan Laragon
 
 Berikut langkah-langkah menjalankan laragon
 

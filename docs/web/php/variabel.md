@@ -1,4 +1,6 @@
-# Variabel
+---
+title: Variabel
+---
 
 Seperti bahasa pemrograman lainnya, PHP juga memiliki variabel. Fungsi variabel disini sebagai penampung sebuah data baik yang nantinya dapat dibaca dan diolah dengan menggunakan bahasa pemrograman.
 

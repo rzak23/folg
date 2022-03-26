@@ -1,8 +1,7 @@
 ---
 sidebar_position: 1
+title: Pengenalan Javascript
 ---
-
-# Pengenalan Javascript
 
 Javascript atau istilah yang benar dalam menyebut bahasa client-side ini adalah Ecma Script (ES), merupakan bahasa pemrograman yang berjalan di sisi client (browser). Ecma Script digunakan untuk membuat sebuah halaman web menjadi lebih interaktif, dan meningkatkan UX pada sebuah halaman website atau aplikasi.
 

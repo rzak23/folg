@@ -1,3 +1,7 @@
+---
+title: Github
+---
+
 # Github
 
 Github merupakan salah satu layanan cloud yang terintegrasi dengan layanan [Git](https://git-scm.com). Github banyak digunakan untuk mempermudah pengerjaan sebuah proyek secara tim maupun individu. Github juga sering digunakan pada developer dalam memamerkan atau membuat sebuah proyek open source.

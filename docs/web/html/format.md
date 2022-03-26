@@ -1,8 +1,7 @@
 ---
 sidebar_position: 4
+title: Pemformatan Teks
 ---
-
-# Pemformatan Teks
 
 Layaknya aplikasi pengolah kata, pada dokumen HTML juga terdapat tesk formatting, dimana format yang sering digunakan adalah bold, italic dan juga underline. Untuk penerapannya tag format ini harus berada di dalam element `<body>`
 

@@ -1,3 +1,7 @@
+---
+title: Install Git
+---
+
 # Cara Install Git
 
 Untuk bisa menggunakan git maka kita wajib menginstall terlebih dahulu git pada komputer kita, berikut cara install Git :
