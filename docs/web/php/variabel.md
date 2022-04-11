@@ -20,7 +20,7 @@ Untuk praktenya, silahkan buat syntax berikut
 ```php
 <?php
 
-$nama = "Adli"
+$nama = "Adli";
 
 echo "Nama Saya ".$nama;
 ```
