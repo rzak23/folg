@@ -58,17 +58,20 @@ module.exports = {
     },
     {
       type: 'category',
+      label: 'Laragon',
+      collapsed: true,
+      items: [
+        'web/php/laragon/index_laragon',
+        'web/php/laragon/jalan_laragon',
+        'web/php/laragon/versi_laragon'
+      ]
+    },
+    {
+      type: 'category',
       label: 'PHP',
       collapsed: true,
       items: [
         'web/php/index_php',
-        {
-          Laragon: [
-            'web/php/laragon/index_laragon',
-            'web/php/laragon/jalan_laragon',
-            'web/php/laragon/versi_laragon'
-          ],
-        },
         'web/php/hello',
         'web/php/variabel'
       ]
