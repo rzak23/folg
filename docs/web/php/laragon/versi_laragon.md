@@ -24,3 +24,5 @@ Berikut cara mengganti versi PHP pada Laragon :
 ![pilih-versi](../../../../img/php/laragon/select-versi-php.jpg)
 
 6. Jika sudah klik tombol `Start All` untuk menjalankan local server
+
+<ReactPlayer controls url='https://youtu.be/NOogb-JB63M'/>
