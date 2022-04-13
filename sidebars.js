@@ -91,7 +91,8 @@ module.exports = {
       collapsed: true,
       items: [
         'git/github/github',
-        'git/github/buat-akun'
+        'git/github/buat-akun',
+        'git/github/buat-repo'
       ]
     }
   ]
