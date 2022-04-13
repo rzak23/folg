@@ -5,7 +5,7 @@ title: Tabel
 
 Pada dokument HTML kita juga dapat membuat tabel, untuk membuat tabel kita membutuhkan tag `<table>`. Untuk lebih jelasnya bisa disimak pada contoh syntax berikut 
 
-```html
+```html title=tabel.html
 <table>
     <thead>
         <tr>

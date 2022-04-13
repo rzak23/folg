@@ -7,7 +7,7 @@ HTML (Hypertext Markup Language) merupakan bahasa markup yang digunakan untuk me
 
 ## Struktur Penulisan HTML
 
-```html
+```html title=index.html
 <!DOCTYPE html>
 <html>
 <head>

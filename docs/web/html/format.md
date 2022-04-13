@@ -5,7 +5,7 @@ title: Pemformatan Teks
 
 Layaknya aplikasi pengolah kata, pada dokumen HTML juga terdapat tesk formatting, dimana format yang sering digunakan adalah bold, italic dan juga underline. Untuk penerapannya tag format ini harus berada di dalam element `<body>`
 
-```html
+```html title=format.html
 <b>Teks Bold format</b>
 <strong>Teks Bold format</strong>
 <i>Teks Italic format</i>

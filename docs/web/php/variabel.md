@@ -17,7 +17,7 @@ PHP merupakan salah satu bahasa pemrograman yang bersifat Case Sensitive, yang a
 
 Untuk praktenya, silahkan buat syntax berikut 
 
-```php
+```php title=variabel.php
 <?php
 
 $nama = "Adli";

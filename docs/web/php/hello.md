@@ -6,7 +6,7 @@ Untuk memulai pembelajaran PHP, maka pertama kita akan mempraktekkan bagaimana c
 
 Silahkan ketikkan perintah berikut pada teks editor yang digunakan 
 
-```php
+```php title=hello.php
 <?php
 
 echo "Hello World";
