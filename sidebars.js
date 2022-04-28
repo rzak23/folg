@@ -74,7 +74,8 @@ module.exports = {
         'web/php/index_php',
         'web/php/save',
         'web/php/hello',
-        'web/php/variabel'
+        'web/php/variabel',
+        'web/php/aritmatika'
       ]
     }
   ],
