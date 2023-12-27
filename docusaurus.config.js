@@ -1,5 +1,6 @@
-const lightCodeTheme = require('prism-react-renderer/themes/github');
-const darkCodeTheme = require('prism-react-renderer/themes/dracula');
+const {themes} = require('prism-react-renderer');
+const lightTheme = themes.github;
+const darkTheme = themes.dracula;
 
 /** @type {import('@docusaurus/types').DocusaurusConfig} */
 module.exports = {
@@ -9,6 +10,13 @@ module.exports = {
   baseUrl: '/',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
+   // Even if you don't use internalization, you can use this field to set useful
+  // metadata like html lang. For example, if your site is Chinese, you may want
+  // to replace "en" with "zh-Hans".
+  i18n: {
+    defaultLocale: 'id',
+    locales: ['id'],
+  },
   favicon: 'img/favicon.ico',
   organizationName: 'Re.Studio', // Usually your GitHub org/user name.
   projectName: 'folg', // Usually your repo name.
@@ -87,8 +95,8 @@ module.exports = {
       copyright: `Copyright © ${new Date().getFullYear()} Re.Studio Project`,
     },
     prism: {
-      theme: lightCodeTheme,
-      darkTheme: darkCodeTheme,
+      theme: lightTheme,
+      darkTheme: darkTheme,
     },
   },
   presets: [
@@ -97,6 +105,7 @@ module.exports = {
       {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
+          showLastUpdateTime: true
         //   // Please change this to your repo.
         //   editUrl: 'https://github.com/facebook/docusaurus/edit/main/website/',
         },

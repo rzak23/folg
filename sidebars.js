@@ -93,7 +93,9 @@ module.exports = {
       items: [
         'git/github/github',
         'git/github/buat-akun',
-        'git/github/buat-repo'
+        'git/github/buat-repo',
+        'git/github/setup-pertama',
+        'git/github/clone-repo'
       ]
     }
   ]
