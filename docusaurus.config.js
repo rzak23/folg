@@ -97,6 +97,9 @@ module.exports = {
     prism: {
       theme: lightTheme,
       darkTheme: darkTheme,
+      additionalLanguages: [
+        'php', 'bash',
+      ]
     },
   },
   presets: [
