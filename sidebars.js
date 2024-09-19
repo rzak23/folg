@@ -98,5 +98,13 @@ module.exports = {
         'git/github/clone-repo'
       ]
     }
+  ],
+  codeigniter: [
+    'codeigniter/intro',
+    'codeigniter/install',
+    'codeigniter/struktur-folder',
+    'codeigniter/route',
+    'codeigniter/konfigurasi',
+    'codeigniter/spark-command'
   ]
 };

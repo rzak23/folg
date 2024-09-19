@@ -42,6 +42,12 @@ module.exports = {
         },
         {
           type: 'doc',
+          docId: 'codeigniter/intro',
+          position: 'left',
+          label: 'Codeigniter 4'
+        },
+        {
+          type: 'doc',
           docId: 'contoh',
           position: 'left',
           label: 'Contoh'
