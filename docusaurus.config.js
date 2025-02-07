@@ -48,6 +48,12 @@ module.exports = {
         },
         {
           type: 'doc',
+          docId: 'laragon/index_laragon',
+          position: 'left',
+          label: 'Laragon'
+        },
+        {
+          type: 'doc',
           docId: 'contoh',
           position: 'left',
           label: 'Contoh'
