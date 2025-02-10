@@ -54,11 +54,17 @@ module.exports = {
         },
         {
           type: 'doc',
-          docId: 'contoh',
+          docId: 'flyenv/index_flyenv',
           position: 'left',
+          label: 'FlyEnv'
+        },
+        {
+          type: 'doc',
+          docId: 'contoh',
+          position: 'right',
           label: 'Contoh'
         },
-        {to: 'blog/', label: 'Blog', position: 'left'}
+        {to: 'blog/', label: 'Blog', position: 'right'}
       ],
     },
     footer: {
