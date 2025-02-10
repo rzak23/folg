@@ -4,7 +4,7 @@ title: Simpan dan Menjalankan file ".php"
 
 Sebelum memulai pembelajaran PHP, maka pertama yang harus diingat dimana kita menyimpan file `.php` yang sudah kita buat dan bisa dijalankan (running) pada local server kita.
 
-Namun sebelum itu pastikan kalian sudah install local server pada device yang digunakan. Jika belum, silahkan buka materi sebelumnya [Install Laragon](laragon/index_laragon). Jika sudah bisa lanjut ke tahap berikutnya :
+Namun sebelum itu pastikan kalian sudah install local server pada device yang digunakan. Jika belum, silahkan buka materi sebelumnya [Install Laragon](../../laragon/index_laragon.mdx). Jika sudah bisa lanjut ke tahap berikutnya :
 
 1. Pastikan kita sudah menyiapkan sebuah file untuk disimpan, dan selalu simpan file dengan format `.php`
 2. File `.php` akan disimpan di dalam folder `root` yang ada pada local server
