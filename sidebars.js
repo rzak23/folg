@@ -101,5 +101,10 @@ module.exports = {
     'laragon/index_laragon',
     'laragon/jalan_laragon',
     'laragon/versi_laragon'
+  ],
+  flyenv: [
+    'flyenv/index_flyenv',
+    'flyenv/install',
+    'flyenv/konfigurasi_db'
   ]
 };
