@@ -58,16 +58,6 @@ module.exports = {
     },
     {
       type: 'category',
-      label: 'Laragon',
-      collapsed: true,
-      items: [
-        'web/php/laragon/index_laragon',
-        'web/php/laragon/jalan_laragon',
-        'web/php/laragon/versi_laragon'
-      ]
-    },
-    {
-      type: 'category',
       label: 'PHP',
       collapsed: true,
       items: [
@@ -106,5 +96,15 @@ module.exports = {
     'codeigniter/route',
     'codeigniter/konfigurasi',
     'codeigniter/spark-command'
+  ],
+  laragon: [
+    'laragon/index_laragon',
+    'laragon/jalan_laragon',
+    'laragon/versi_laragon'
+  ],
+  flyenv: [
+    'flyenv/index_flyenv',
+    'flyenv/install',
+    'flyenv/konfigurasi_db'
   ]
 };

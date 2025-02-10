@@ -48,11 +48,23 @@ module.exports = {
         },
         {
           type: 'doc',
-          docId: 'contoh',
+          docId: 'laragon/index_laragon',
           position: 'left',
+          label: 'Laragon'
+        },
+        {
+          type: 'doc',
+          docId: 'flyenv/index_flyenv',
+          position: 'left',
+          label: 'FlyEnv'
+        },
+        {
+          type: 'doc',
+          docId: 'contoh',
+          position: 'right',
           label: 'Contoh'
         },
-        {to: 'blog/', label: 'Blog', position: 'left'}
+        {to: 'blog/', label: 'Blog', position: 'right'}
       ],
     },
     footer: {
@@ -130,4 +142,17 @@ module.exports = {
       },
     ],
   ],
+  themes: [
+    [
+      require.resolve("@easyops-cn/docusaurus-search-local"),
+      /** @type {import("@easyops-cn/docusaurus-search-local").PluginOptions} */
+      ({
+        // ... Your options.
+        // `hashed` is recommended as long-term-cache of index file is possible.
+        hashed: true,
+        indexDocs: true,
+        indexBlog: false
+      }),
+    ]
+  ]
 };
